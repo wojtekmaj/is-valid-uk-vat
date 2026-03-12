@@ -1,6 +1,6 @@
 {
   "name": "is-valid-uk-vat",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Check if a number is a valid UK VAT number",
   "type": "module",
   "sideEffects": false,

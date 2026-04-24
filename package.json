@@ -54,5 +54,5 @@
     "url": "git+https://github.com/wojtekmaj/is-valid-uk-vat.git"
   },
   "funding": "https://github.com/wojtekmaj/is-valid-uk-vat?sponsor=1",
-  "packageManager": "yarn@4.14.0"
+  "packageManager": "yarn@4.14.1"
 }
